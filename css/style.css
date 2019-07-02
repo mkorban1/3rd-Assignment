@@ -1,0 +1,198 @@
+*{
+	margin: 0px;
+	padding: 0px
+}
+body{
+	
+}
+header{
+	height: 120px;
+	
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+	
+}
+
+
+
+.logo{
+	width: 30%;
+	height: 120px;
+	float: left;
+
+}
+.menu{
+	width: 70%;
+	height: 120px;
+	float: left;
+}
+nav{
+	   margin: 20px;
+}
+nav ul{
+	    list-style: none;
+}
+nav ul li{
+    display: inline;
+    margin: 20px;
+}
+nav ul li a{
+    text-decoration: none;
+     text-decoration: none;
+    font-size: 20px;
+}
+
+.baner{
+	width: 100%;
+    background: #8a74cc36;
+    border-radius: 20px;
+    background: url(../img/baner.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.about{
+	
+	width: 100%;
+	height: 300px;
+}
+h1{
+	font-size: 80px;
+}
+.btn{
+	background: skyblue;
+    border-radius: 7px;
+    margin: 15px 7px;
+    padding: 10px;
+    font-size: 20px;
+}
+.midpart{
+	height: 350px;
+	width: 1140px;
+	margin: 0 auto;
+	background: skyblue;
+	border-radius: 20px;
+
+}
+.mid-one{
+	width: 25%;
+	
+	float: left;
+}
+.mid-two{
+	width: 25%;
+	
+	float: left;
+}
+.mid-three{
+	width: 25%;
+	float: left;
+	
+}
+.mid-four{
+	width: 25%;
+	float: left;
+
+	
+}
+h2{
+	font-size: 40px;
+	text-align: center
+}
+p{
+	text-align: center
+
+}
+.bt{
+	margin: 10px 10px;
+    padding: 10px;
+    border-radius: 10px;
+    background: #7180008a;
+    text-transform: uppercase;
+}
+.low-part{
+	height: 230px;
+}
+.one{
+	width: 50%;
+	background: #0006ff33;;
+	float: left;
+	border-radius: 20px;
+}
+.two{
+	width: 50%;
+	background: #ff000070;
+	float: left;
+	border-radius: 20px;
+
+}
+
+ul{
+
+}
+ul li{
+	list-style: circle;
+    margin: 10px;
+    text-align: center;
+    font-size: 20px;
+    list-style-position: inside;
+}
+.blog{
+	width: 1140px;
+    height: 50px;
+    margin: 0 auto;
+    background: #008080ad;
+    border-radius: 20px;
+}
+.end-blog{
+	width: 1140px;
+    height: 156px;
+    margin: 0 auto;
+    background: gainsboro;
+    border-radius: 20px;
+
+}
+.blog-one{
+	width: 50%;
+	height: 156px;
+	
+	border-radius: 20px;
+	float: left;
+}
+.blog-two{
+	width: 50%;
+	height: 156px;
+	
+	float: left;
+	border-radius: 20px;
+}
+
+.bt3{
+	    padding: 15px;
+    border-radius: 11px;
+    background: tomato;
+    font-size: 20px
+}
+footer{
+	width: 1140px;
+    height: 100px;
+    margin: 0 auto;
+    text-align: center;
+    background: skyblue;
+    border-radius: 20px;
+	
+}
+
+.copyright{
+width: 50%;
+	height: 300px;
+	
+	float: left;
+}
+.copyright-t{
+	width: 50%;
+	height: 300px;
+	
+	float: left;
+}
